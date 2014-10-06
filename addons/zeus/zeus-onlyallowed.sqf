@@ -11,12 +11,9 @@ if (isServer) exitWith{};
 // Zeus users - allowed to use Zeus slots
 _zeusUIDs =[
 		// Put player UIDs here
-		"76561198058098139", //Moros
-		"76561197960315007", //JOe
-		"76561197970396192", //Wiking
-		"76561197969673156", //Xerxio
-		"76561198054115496"  //Staynex
-		
+		"765xxxx", //Admin1
+		"765xxx",  //Admin2
+		"765xxx"   //Admin 3		
 	];
 
 
