@@ -16,3 +16,9 @@ To do this place /* before and */ after this code block. Be aware that the deact
 
 - To be sure your savegame used for the playerslot isn't getting corrupted by your Zeus usage you can disable saving for zeus units. Add Line 6 to do this:
 https://github.com/wiking-at/Zeus-Addon-A3Wasteland/blob/master/persistence/players/c_savePlayerData.sqf#L6
+
+
+Limitations and Bugs:
+- The usage of the Addon may impact your server performance/network traffic as the BIS Curator Module introduces additional network traffic
+
+- The player and admin-menu's are not working 100%. I just enabled this functionality to be able to change the view distance and do basic admin tasks. 
