@@ -21,4 +21,4 @@ https://github.com/wiking-at/Zeus-Addon-A3Wasteland/blob/master/persistence/play
 Limitations and Bugs:
 - The usage of the addon may impact your server performance/network traffic as the BIS Curator Module introduces additional network traffic
 
-- The player and admin-menu's are not working 100%. I just enabled this functionality to be able to change the view distance and do basic admin tasks. 
+- The player and admin-menu's are not working 100%. I just enabled this functionality to be able to change the view distance and do basic admin tasks. As an example - if you drop money as Zeus it is dropped on the position of your curator logic and not at the unit you are controlling.
