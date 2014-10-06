@@ -1,5 +1,8 @@
 Zeus-Addon-A3Wasteland
 ======================
+
+Addon by wiking.at | www.armajunkies.de | ts3.armajunkies.de
+
 Steps to install:
 
 - Place the contents of the attached addons folder to your addons folder. Edit zeus-onlyallowed.sqf to include the Player UID's of players who should be allowed to use the zeus slots.
