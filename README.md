@@ -1,6 +1,7 @@
 Zeus-Addon-A3Wasteland - for A3Wasteland 0.9gh
 ==============================================
 
+Edit: Update for 0.9h - needs testing.
 Addon by wiking.at | www.armajunkies.de | ts3.armajunkies.de
 
 Steps to install:
