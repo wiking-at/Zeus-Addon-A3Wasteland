@@ -1,5 +1,5 @@
-Zeus-Addon-A3Wasteland
-======================
+Zeus-Addon-A3Wasteland - for A3Wasteland 0.9gh
+==============================================
 
 Addon by wiking.at | www.armajunkies.de | ts3.armajunkies.de
 
@@ -19,6 +19,10 @@ To do this place /* before and */ after this code block. Be aware that the deact
 
 - To be sure your savegame used for the playerslot isn't getting corrupted by your zeus usage you can disable saving for zeus units. Add line 6 to do this:
 https://github.com/wiking-at/Zeus-Addon-A3Wasteland/blob/master/persistence/players/c_savePlayerData.sqf#L6
+
+Update for 0.9h
+- The new missions Anti-Hack has to be modified to allow the Zeus Functions:
+- https://gist.github.com/AgentRev/53ee67d44ae93e1fa1e5 - Thanks Agentrev
 
 
 Limitations and Bugs:
