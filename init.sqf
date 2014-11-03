@@ -74,8 +74,10 @@ if (isServer) then
 [] execVM "addons\zeus\zeus.sqf";
 };
 
+/* Removed Zeus Init - path of stuff changed
 if (str(side player) == "LOGIC") then
 {
 //init for Zeus to Allow A3wasteland Admin Menü, Player Menu, (n ...
 [] execVM "addons\zeus\zeus-init.sqf";
 };
+*/
